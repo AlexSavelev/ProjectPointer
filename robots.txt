@@ -1,0 +1,5 @@
+User-agent: Yandex
+Disallow: /media/
+Disallow: /admin/
+Disallow: /styles/
+Sitemap: https://ppointer.ru/sitemap.xml

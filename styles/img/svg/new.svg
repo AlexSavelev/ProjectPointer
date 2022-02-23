@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916667 52.916667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="new.svg"
+   inkscape:export-filename="C:\Users\savel\Desktop\ProjectPointer\styles\img\svg\new.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.4513035"
+     inkscape:cx="69.758804"
+     inkscape:cy="63.435637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="200px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#3c4257;fill-opacity:0.33;stroke-width:0.594577"
+       id="path31"
+       cx="26.458334"
+       cy="26.458334"
+       r="26.458334" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.7611px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39687501;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="5.8329039"
+       y="42.598343"
+       id="text5075"
+       transform="scale(0.99455005,1.0054798)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.7611px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.39687501;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="5.8329039"
+         y="42.598343"
+         id="tspan6673">+</tspan></text>
+  </g>
+</svg>

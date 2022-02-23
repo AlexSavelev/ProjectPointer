@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.6875 39.6875"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="file.svg"
+   inkscape:export-filename="C:\Users\savel\Desktop\ProjectPointer\styles\img\file.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="150mm"
+     units="px"
+     inkscape:zoom="2.9647587"
+     inkscape:cx="122.94424"
+     inkscape:cy="66.278581"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="M 9.7895833,5.2916667 V 33.072917 H 29.633335 V 11.90625 L 23.018752,5.2916667 Z"
+       id="path861"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.018752,5.2916666 V 11.90625 h 6.614583"
+       id="path3077"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.712828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.856414,15.356414 h 9.346915"
+       id="path4696" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.712828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.856414,17.356414 h 9.346915"
+       id="path4696-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.712828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.856414,19.356414 h 9.346915"
+       id="path4696-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.712828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.856414,23.356414 h 9.346915"
+       id="path4696-30" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.712828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.856414,21.356414 h 9.346915"
+       id="path4696-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.63101"
+       y="31.948919"
+       id="text6961"><tspan
+         sodipodi:role="line"
+         id="tspan6959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Tw Cen MT Condensed Extra Bold';-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold, ';stroke-width:0.264583"
+         x="24.63101"
+         y="31.948919">PP</tspan></text>
+  </g>
+</svg>
