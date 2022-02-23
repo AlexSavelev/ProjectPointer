@@ -1,11 +1,11 @@
 <?php
 
 // DB
-$db_host = "localhost";
-$db_login = "u1514162_default";
-$db_password = "5726smmcOsoPNaRIAx8I";
-$db_base = "u1514162_default";
-$db_projects = "u1514162_projects";
+$db_host = "PRIVATE_INFORMATION";
+$db_login = "PRIVATE_INFORMATION";
+$db_password = "PRIVATE_INFORMATION";
+$db_base = "PRIVATE_INFORMATION";
+$db_projects = "PRIVATE_INFORMATION";
 
 // QUERY Limits
 $limit_com_query = 25;
