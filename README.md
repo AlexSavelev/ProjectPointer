@@ -1,2 +1,3 @@
 # ProjectPointer
- School project constructor in the form of a site
+ Конструктор школьных проектов в виде сайта
+
